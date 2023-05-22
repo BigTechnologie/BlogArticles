@@ -1,0 +1,22 @@
+{
+    "name": "kandia/blog",
+    "autoload": {
+        "psr-4": {
+            "Kandia\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diallo",
+            "email": "dev.technologie2018@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "altorouter/altorouter": "1.2.0"
+    }
+}
